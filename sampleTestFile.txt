@@ -1,1 +1,2 @@
 This line is added for demo-checkout-commit project.
+This is the second line added.
